@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70338" started-at="2023-10-13T15:55:06Z" finished-at="2023-10-13T15:56:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70338" started-at="2023-10-13T15:55:06Z" finished-at="2023-10-13T15:56:16Z">
+      <class name="com.qa.opencart.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.opencart.tests.HomePageTest@39c0f4a]" name="setUp" is-config="true" duration-ms="38351" started-at="2023-10-13T15:55:06Z" finished-at="2023-10-13T15:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyRegisterAndLogin()[pri:1, instance:com.qa.opencart.tests.HomePageTest@39c0f4a]" name="verifyRegisterAndLogin" duration-ms="3907" started-at="2023-10-13T15:55:44Z" finished-at="2023-10-13T15:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterAndLogin -->
+        <test-method status="PASS" signature="verifyLoginTest()[pri:2, instance:com.qa.opencart.tests.HomePageTest@39c0f4a]" name="verifyLoginTest" duration-ms="3685" started-at="2023-10-13T15:55:48Z" finished-at="2023-10-13T15:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method status="PASS" signature="verifyAddItemToCartUnderComponentsMenu()[pri:3, instance:com.qa.opencart.tests.HomePageTest@39c0f4a]" name="verifyAddItemToCartUnderComponentsMenu" duration-ms="21025" started-at="2023-10-13T15:55:52Z" finished-at="2023-10-13T15:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddItemToCartUnderComponentsMenu -->
+        <test-method status="PASS" signature="verifyShoppingCart()[pri:4, instance:com.qa.opencart.tests.HomePageTest@39c0f4a]" name="verifyShoppingCart" duration-ms="1615" started-at="2023-10-13T15:56:13Z" finished-at="2023-10-13T15:56:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShoppingCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.opencart.tests.HomePageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="1343" started-at="2023-10-13T15:56:15Z" finished-at="2023-10-13T15:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

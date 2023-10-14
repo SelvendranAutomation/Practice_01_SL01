@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Open Card Test Automation Suite]">
+  <test thread-count="5" name="Open Card App Test Cases(failed)">
+    <classes>
+      <class name="com.qa.opencart.tests.HomePageTest">
+        <methods>
+          <include name="verifyHomePageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.opencart.tests.HomePageTest -->
+    </classes>
+  </test> <!-- Open Card App Test Cases(failed) -->
+</suite> <!-- Failed suite [Open Card Test Automation Suite] -->
